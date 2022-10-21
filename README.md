@@ -46,3 +46,5 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+# Deploy
++ https://explorer-lab-01-phi-nine.vercel.app
